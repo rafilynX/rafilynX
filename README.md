@@ -1,4 +1,4 @@
-[![MasterHead]((https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)](https://rafilynX.io)
+
 <h1 align="center">Hi 👋, I'm rahat rafi</h1>
 <h3 align="center">i`m a newbie.passionate about web development.</h3>
 <img align="right" alt="Coding" width="400" src="https://iconscout.com/lotties/front-end-developer">
